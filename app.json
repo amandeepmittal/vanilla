@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.amanhimself.vanilla",
+      "bundleIdentifier": "com.amanhimself.vanilla"
     },
     "android": {
       "adaptiveIcon": {
